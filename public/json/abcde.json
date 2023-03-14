@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "jahid",
+        "Age": "23",
+        "Height": "5.5",
+        "Active": "TRUE"
+    },
+    {
+        "Name": "hasan",
+        "Age": "24",
+        "Height": "5.9",
+        "Active": "FALSE"
+    },
+    {
+        "Name": "shakil",
+        "Age": "21",
+        "Height": "5.4",
+        "Active": "TRUE"
+    }
+]
